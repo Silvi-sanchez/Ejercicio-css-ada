@@ -1,0 +1,26 @@
+h2,h3,span,p{
+    font-family: monospace;
+}
+
+h2{
+    font-size: 35px;
+}
+h3{
+    font-size: 20px;
+    color: skyblue;
+    text-decoration: none;
+}
+
+a:link{
+    color:rgb(41, 41, 206);
+    text-decoration: none;
+}
+
+.fecha{
+    font-size: 10px;
+    color: slategray;
+}
+
+span{
+    background-color:rgb(206, 201, 201);
+}

@@ -1,0 +1,24 @@
+h1{
+    font-size: 50px;
+    font-family: fantasy;
+}
+
+h3{
+    font-family: unset;
+    color: grey;
+}
+#link{
+    color: skyblue;
+    text-decoration: none;
+
+}
+
+
+.tres{
+    font-style: italic;
+    font-family: sans-serif;
+}
+
+.dos{
+    font-style: italic;
+}

@@ -1,0 +1,95 @@
+
+.turquesa{
+    color: #a5e4e4;
+    background-color: rgb(26, 90, 84);
+    font-family: fantasy;
+}
+
+.verde{
+    color: #49b662;
+    background-color: rgb(10, 88, 10);
+    font-family: fantasy;
+}
+
+.violeta{
+    color: #ab91cf;
+    background-color: rgb(105, 56, 105);
+    font-family: fantasy;
+}
+
+.azul{
+    color: #418fce;
+    background-color:rgb(0, 0, 129) ;
+    font-family: fantasy;
+}
+
+.rosa{
+    color: #e994a4;
+    background-color:rgb(214, 35, 110) ;
+    font-family: fantasy;
+}
+
+.amarillo{
+    color: rgb(238, 248, 124);
+    background-color: rgb(148, 148, 12) ;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.naranja{
+    color: rgb(243, 167, 92);
+    background-color: rgb(179, 118, 6);
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.salmon{
+    color: rgb(255, 168, 159);
+    background-color: rgb(243, 67, 47);
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.rojo{
+    color: rgb(204, 97, 97);
+    background-color:rgb(148, 0, 0) ;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.bordo{
+    color: rgb(231, 50, 141);
+    background-color: rgb(88, 23, 23);
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+.gris{
+    color: rgb(189, 184, 184);
+    background-color: rgb(94, 91, 91);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.beige{
+    color: rgb(248, 248, 238);
+    background-color: rgb(187, 187, 133);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.caramelo{
+    color: rgb(173, 150, 141);
+    background-color: rgb(160, 101, 33);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.cafe{
+    color: rgb(201, 166, 132);
+    background-color: rgb(114, 61, 1);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.marino{
+    color: rgb(125, 127, 156);
+    background-color:rgb(0, 0, 107);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h1, h2{
+    font-size: 40px;
+}

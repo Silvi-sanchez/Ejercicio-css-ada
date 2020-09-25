@@ -1,0 +1,27 @@
+h1, h2, h3, p{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+h1{
+    font-size: 50px;
+}
+
+h2{
+    font-size: 35px;
+}
+h3{
+    font-size: 20px;
+}
+
+.fecha{
+    color: grey;
+    font-size: 15px;
+}
+
+.negativo{
+    color: red;
+}
+
+.positivo{
+    color: rgb(7, 182, 7);
+}

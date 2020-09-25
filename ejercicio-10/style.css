@@ -1,0 +1,33 @@
+h1,h2,h3,span{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
+
+h1{
+    font-size: 50px;
+}
+h2{
+    font-size: 30px;
+}
+h3{
+    font-size: 20px;
+}
+.hecha{
+    color: green;
+}
+
+.haciendo{
+    color: orange
+}
+
+.cancelada{
+    color: red
+}
+
+.pendiente{
+    color:blue
+}
+
+.fecha{
+    font-size: 12px;
+    color: grey;
+}

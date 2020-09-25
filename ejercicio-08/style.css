@@ -1,0 +1,42 @@
+.cero{
+    color: blue;
+}
+
+.cinco{
+    color: rgb(38, 129, 233);
+}
+
+.diez{
+    color: rgb(0, 204, 255);
+}
+
+.quince{
+    color: rgb(0, 247, 255);
+}
+
+.veinte{
+    color: rgb(175, 219, 223);
+}
+
+.veinticinco{
+    color: rgba(192, 176, 176, 0.644);
+}
+
+.treinta{
+    color: rgb(255, 242, 125);
+}
+.treintaycinco{
+    color: rgb(248, 244, 19);
+}
+
+.cuarenta{
+    color: rgb(238, 163, 23)
+}
+
+.cuarentaycinco{
+    color: rgb(255, 166, 0)
+}
+
+.cincuenta{
+    color: rgb(255, 0, 0);
+}
